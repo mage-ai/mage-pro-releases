@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-10T15:00:00Z",
+  "generated_at": "2026-06-10T07:45:00Z",
   "releases": [
+    {
+      "categories": [
+        "Release automation",
+        "Customer communication",
+        "Visual QA"
+      ],
+      "highlights": [
+        "Publish release notes as markdown without changing the frontend.",
+        "Show new releases automatically from the public manifest.",
+        "Verify the changelog experience with live browser screenshots."
+      ],
+      "id": "mage-pro-2026-06-10-release-feed-smoke-test",
+      "image_tags": [
+        "mage-pro:2026.06.10-smoke",
+        "mage-pro:release-feed-demo"
+      ],
+      "markdown_path": "2026-06-10-release-feed-smoke-test.md",
+      "published_at": "2026-06-10T07:45:00Z",
+      "release_id": "2026.06.10-smoke",
+      "sequence": 400,
+      "summary": "A visual QA release that proves the Mage Pro changelog page updates from public markdown content instead of frontend code changes.",
+      "title": "Release Feed Smoke Test",
+      "version": "2026.06.10-smoke"
+    },
     {
       "categories": [
         "Agent workflows",
