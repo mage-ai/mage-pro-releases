@@ -25,7 +25,6 @@ Large dashboard views now prioritize critical content first. Navigation should f
 This sample release is safe to use for visual QA. It intentionally includes common markdown structures:
 
 - Lists
-- Tables in newer releases
 - Inline `code`
 - External links
 - Multiple headings

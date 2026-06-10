@@ -18,11 +18,11 @@ This makes feature review easier for product, design, and customer-facing teams 
 
 Release notes can now be generated into public markdown files and discovered through a simple JSON manifest. The frontend renders the newest entries first, including image tags, highlights, release dates, raw markdown links, and GitHub links when available.
 
-| Audience | What they get |
-| --- | --- |
-| Product teams | Clear feature narratives instead of commit lists |
-| Operators | Version-aware context before upgrading |
-| Engineers | Markdown files that are easy to review and automate |
+This gives each audience a clearer release story:
+
+- Product teams get feature narratives instead of commit lists.
+- Operators get version-aware context before upgrading.
+- Engineers get markdown files that are easy to review and automate.
 
 ## Cloud QA
 
