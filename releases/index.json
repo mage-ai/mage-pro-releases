@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-06-10T15:00:00Z",
+  "releases": [
+    {
+      "categories": [
+        "Agent workflows",
+        "Cloud operations",
+        "Developer experience"
+      ],
+      "highlights": [
+        "Launch isolated cloud agent dev slots from a shared EKS cluster.",
+        "Review Mage Pro changes through a public changelog feed.",
+        "Connect frontend QA directly to linked Mage Pro environments."
+      ],
+      "id": "mage-pro-2026-06-10-agent-command-center",
+      "image_tags": [
+        "mage-pro:2026.06.10",
+        "mage-pro:latest"
+      ],
+      "markdown_path": "2026-06-10-agent-command-center.md",
+      "published_at": "2026-06-10T15:00:00Z",
+      "release_id": "2026.06.10",
+      "sequence": 300,
+      "summary": "A release focused on making agent-driven development, shared QA, and product release communication feel connected from commit to customer-facing changelog.",
+      "title": "Agent Command Center",
+      "version": "2026.06.10"
+    },
+    {
+      "categories": [
+        "Data observability",
+        "Pipeline monitoring",
+        "Reliability"
+      ],
+      "highlights": [
+        "Spot late-running pipelines before SLAs are missed.",
+        "Compare block output changes across recent runs.",
+        "Send clearer status summaries to operators and stakeholders."
+      ],
+      "id": "mage-pro-2026-05-29-observability-upgrades",
+      "image_tags": [
+        "mage-pro:2026.05.29"
+      ],
+      "markdown_path": "2026-05-29-observability-upgrades.md",
+      "published_at": "2026-05-29T18:30:00Z",
+      "release_id": "2026.05.29",
+      "sequence": 200,
+      "summary": "A more confident control room for teams that need to know what changed, what is late, and what needs attention.",
+      "title": "Observability Upgrades",
+      "version": "2026.05.29"
+    },
+    {
+      "categories": [
+        "Workspace management",
+        "Governance",
+        "Performance"
+      ],
+      "highlights": [
+        "Provision workspaces with cleaner defaults.",
+        "Keep permission reviews fast with clearer role summaries.",
+        "Load large project dashboards with fewer blocking requests."
+      ],
+      "id": "mage-pro-2026-05-12-workspace-foundations",
+      "image_tags": [
+        "mage-pro:2026.05.12"
+      ],
+      "markdown_path": "2026-05-12-workspace-foundations.md",
+      "published_at": "2026-05-12T16:45:00Z",
+      "release_id": "2026.05.12",
+      "sequence": 100,
+      "summary": "A foundation release that makes workspace setup, governance, and everyday navigation feel faster and more predictable.",
+      "title": "Workspace Foundations",
+      "version": "2026.05.12"
+    }
+  ]
+}
