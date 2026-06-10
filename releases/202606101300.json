@@ -1,0 +1,23 @@
+{
+  "generated_by": "openai:gpt-4.1",
+  "git_sha": "110ab8a30ac39e4859fea5a9ae58a3c4cba9251a",
+  "highlights": [
+    "**Pipeline Editor is now multiplayer.** Real-time presence, block-level editing locks, and autosave collision prevention dramatically improve collaboration and data integrity when working with teammates.",
+    "**Home dashboard surfaces release notes.** Users now see a well-structured \"What's new\" panel with the latest Mage Pro product updates matching their installed version.",
+    "**Release notes only include user-facing features.** Internal engineering and maintenance work are excluded from public change logs, keeping release communications product-focused.",
+    "**New cloud QA/dev workflows are EKS-only.** All visual QA, browser proof, and agent work now use AWS EKS agent dev slots as the only supported path.",
+    "**Data integration: New sources and improved compatibility.** Major data integration enhancements including Google Business Profile source, Salesforce Marketing Cloud data extensions, and improved Microsoft & Google Ads sources.",
+    "**User, admin, and audit experience upgrades.** Workspace landing page preference, Secret manager page, Trace Audit logs for admins, and improved onboarding/user navigation."
+  ],
+  "image_tag": "202606101300",
+  "markdown_path": "releases/202606101300.md",
+  "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/202606101300.md",
+  "metadata_path": "releases/202606101300.json",
+  "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/202606101300.json",
+  "published_at": "2026-06-10T22:25:58Z",
+  "release_id": "202606101300",
+  "sequence": 202606101300,
+  "start_sha": "d3c726f2355ac0ee260c1096664034c51cc884d1",
+  "summary": "For full details, see release documentation and in-app Home \u2794 What's New feed. Thank you for using Mage Pro!",
+  "title": "Mage Pro Release Notes"
+}
