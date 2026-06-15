@@ -1,4 +1,28 @@
 {
-  "generated_at": "2026-06-11T18:03:47Z",
-  "releases": []
+  "generated_at": "2026-06-15T18:53:36Z",
+  "releases": [
+    {
+      "generated_by": "openai:gpt-4.1",
+      "git_sha": "2da0c48d0f53b11026e2b964f8ede135b502d9a9",
+      "highlights": [
+        "**Multiplayer pipeline editing:** Real-time presence and block-level locking in the pipeline editor prevent lost work and editing collisions.",
+        "**AI \"Fix with AI\" now everywhere:** AI-powered fix actions for failed pipeline runs, error logs, and directly inside pipeline blocks speed up troubleshooting.",
+        "**Flexible pipeline creation:** The New Pipeline flow is streamlined with modals for creation from scratch, templates, or uploads.",
+        "**Enhanced Data Integrations:** New sources, more flexible auth, and improved sample data for Salesforce Marketing Cloud, Google Business Profile, Google Ads, Microsoft Ads, and BigQuery.",
+        "**Global and workspace navigation:** Restored and expanded Data and Agent product dashboards; improved Settings layout and new workspace landing-page preferences.",
+        "**Trace Audit dashboard:** Admins can now audit API events and changes across the workspace with filtering, search, and export."
+      ],
+      "image_tag": "202606151200",
+      "markdown_path": "releases/202606151200.md",
+      "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/202606151200.md",
+      "metadata_path": "releases/202606151200.json",
+      "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/202606151200.json",
+      "published_at": "2026-06-15T18:53:36Z",
+      "release_id": "202606151200",
+      "sequence": 202606151200,
+      "start_sha": "d3c726f2355ac0ee260c1096664034c51cc884d1",
+      "summary": "```markdown",
+      "title": "Mage Pro Release Notes"
+    }
+  ]
 }
