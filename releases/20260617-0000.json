@@ -1,0 +1,23 @@
+{
+  "generated_by": "openai:gpt-4.1",
+  "git_sha": "86454b4ce7a6dc78c09d5e7f8d01205ee4499c3d",
+  "highlights": [
+    "**Multiplayer pipeline editor:** Real-time collaborative pipeline editing, live presence avatars, and per-block edit locks help prevent lost work from concurrent edits.",
+    "**AI Sidekick improvements:** \"Fix with AI\" is more discoverable for failed runs and blocks, with streamlined UX for logs, pipeline runs, and pipeline editor integration.",
+    "**New workspace capabilities:** Customizable landing page, improved \"New Pipeline\" creation, block visibility tabs, and persistent left navigation in the pipeline editor.",
+    "**End-to-end trigger and run management upgrades:** Cancel all active pipeline runs, bulk-disable all triggers, and improved Microsoft Ads/Google Ads/BigQuery and Salesforce Marketing Cloud sources.",
+    "**Mage Pro release notes:** Release changelogs now published and visible in the UI for every Mage Pro image.",
+    "**Cloud agent dev: EKS-only, improved slots, live QA URLs:** Hardens AWS/EKS dev slot process, fast file transfer for remote slots, improved status reporting, and QA credentials for feature test/visual QA."
+  ],
+  "image_tag": "20260617-0000-py3.12",
+  "markdown_path": "releases/20260617-0000.md",
+  "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260617-0000.md",
+  "metadata_path": "releases/20260617-0000.json",
+  "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260617-0000.json",
+  "published_at": "2026-06-17T08:17:01Z",
+  "release_id": "20260617-0000",
+  "sequence": 202606170000,
+  "start_sha": "5c2a45e6296cb450bb1004d041e522e68b8310a4",
+  "summary": "For a full, visual overview of new features and UI improvements\u2014including screenshots for dark and light mode, mobile and desktop\u2014visit the product dashboard.",
+  "title": "Mage Pro Release Notes"
+}
