@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-06-17T08:17:01Z",
+  "generated_at": "2026-07-15T23:44:51Z",
   "releases": [
+    {
+      "generated_by": "openai:gpt-4.1",
+      "git_sha": "09e4041de278b2f171399df9da290d2e891d56d8",
+      "highlights": [
+        "Major improvements to pipeline template management, discovery, and creation workflows",
+        "Multi-factor authentication (MFA) setup and sign-in now available",
+        "Enhanced release note preview rendering",
+        "--"
+      ],
+      "image_tag": "20260715-1600-py3.12",
+      "markdown_path": "releases/20260715-1600.md",
+      "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260715-1600.md",
+      "metadata_path": "releases/20260715-1600.json",
+      "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260715-1600.json",
+      "published_at": "2026-07-15T23:44:51Z",
+      "release_id": "20260715-1600",
+      "sequence": 202607151600,
+      "start_sha": "895207b1818d5e2a305c7001195d85f9290a9da1",
+      "summary": "Users and admins can now enable Multi-Factor Authentication for enhanced account security.",
+      "title": "Mage Pro Release Notes"
+    },
     {
       "generated_by": "openai:gpt-4.1",
       "git_sha": "86454b4ce7a6dc78c09d5e7f8d01205ee4499c3d",
