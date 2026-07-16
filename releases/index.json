@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-07-15T23:44:51Z",
+  "generated_at": "2026-07-16T05:26:16Z",
   "releases": [
     {
-      "generated_by": "openai:gpt-4.1",
+      "generated_by": "manual:codex",
       "git_sha": "09e4041de278b2f171399df9da290d2e891d56d8",
       "highlights": [
-        "Major improvements to pipeline template management, discovery, and creation workflows",
-        "Multi-factor authentication (MFA) setup and sign-in now available",
-        "Enhanced release note preview rendering",
-        "--"
+        "New AI Sidekick: Brings a more capable in-product AI chat for creating pipelines, debugging failed runs, navigating chat threads, tracking subagent progress, and using Sidekick from editor workflows with more reliable production routing.",
+        "New Terminal with autocomplete and version control: Adds terminal autocomplete, Git authentication, reconnect handling, prompt metadata, and production routing hardening.",
+        "MFA and account security: Consolidates MFA setup, required sign-in verification, account-settings placement, lockout handling, and migration safety.",
+        "Monitoring, logs, and observability: Adds OpenSearch-backed global log search, overview monitoring, pipeline monitoring, schedule heatmaps, and alerting improvements.",
+        "Pipeline operations: Improves project-wide retry actions, date filters, trigger search, run links, and run-status workflows.",
+        "Pipeline authoring and templates: Expands template browsing and creation, pipeline-file scope, custom syntax themes, dynamic-block output support, and editor polish."
       ],
       "image_tag": "20260715-1600-py3.12",
       "markdown_path": "releases/20260715-1600.md",
@@ -19,7 +21,7 @@
       "release_id": "20260715-1600",
       "sequence": 202607151600,
       "start_sha": "895207b1818d5e2a305c7001195d85f9290a9da1",
-      "summary": "Users and admins can now enable Multi-Factor Authentication for enhanced account security.",
+      "summary": "New AI Sidekick: Brings a more capable in-product AI chat for creating pipelines, debugging failed runs, navigating chat threads, tracking subagent progress, and using Sidekick from editor workflows with more reliable production routing.",
       "title": "Mage Pro Release Notes"
     },
     {
