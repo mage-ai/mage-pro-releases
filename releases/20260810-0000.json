@@ -1,0 +1,23 @@
+{
+  "generated_by": "manual:codex",
+  "git_sha": "741a84c7a50e39fed555f80799efd6ecb2a0456e",
+  "highlights": [
+    "AI Sidekick: Makes Sidekick faster and more capable with continuous Markdown streaming, smoother live answers, voice dictation, file and zipped-folder uploads, removable context chips, docs search, data previews, chart artifacts, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
+    "Analytics Dashboard and visualization: Adds AI-generated visualization dashboard charts, universal chart data views, dashboard chart rendering from full block outputs, dashboard empty-state fixes, and monitoring overview action polish.",
+    "Data exploration: Introduces a Data Explorer entrypoint, exploration UI for existing connections, virtual preview tables, Parquet and remote SQL preview adapters, cancellation handling, and improved row-count behavior.",
+    "Data connection UI: Adds UI for managing io_config profiles, improves first integration config template loading, expands connection testing across IO classes, and adds SQL source stream row counts.",
+    "Alert management UI: Restores alert settings with managed notification schemas, adds managed notification delivery support, clarifies trigger timing and plan language, and keeps alert and trigger controls readable.",
+    "Template library by industry: Adds a managed pipeline template catalog so teams can browse industry-oriented templates and start new pipelines from curated examples."
+  ],
+  "image_tag": "20260810-0000-py3.12",
+  "markdown_path": "releases/20260810-0000.md",
+  "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260810-0000.md",
+  "metadata_path": "releases/20260810-0000.json",
+  "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260810-0000.json",
+  "published_at": "2026-08-10T04:28:38Z",
+  "release_id": "20260810-0000",
+  "sequence": 202608100000,
+  "start_sha": "09e4041de278b2f171399df9da290d2e891d56d8",
+  "summary": "AI Sidekick: Makes Sidekick faster and more capable with continuous Markdown streaming, smoother live answers, voice dictation, file and zipped-folder uploads, removable context chips, docs search, data previews, chart artifacts, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
+  "title": "Mage Pro Release Notes"
+}
