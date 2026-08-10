@@ -5,12 +5,12 @@
       "generated_by": "manual:codex",
       "git_sha": "be1be7742c52e7fc0da4ce642c2ffbbc044743e6",
       "highlights": [
-        "AI Sidekick speed, streaming, and reliability: Makes Sidekick feel more live with continuous Markdown rendering, smoother answer streaming, faster send paths, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
-        "Richer Sidekick inputs and context: Adds voice dictation, file attachments, zipped folder uploads, removable context chips, page context readers, docs search, and more reliable editor and dashboard context.",
-        "Sidekick data exploration and artifacts: Adds chat-driven data previews, chart rendering, dashboard chart views, artifact hydration, and safer handling for generated or synthetic preview data.",
-        "Data Explorer and data preview: Introduces a Data Explorer entrypoint, exploration UI for existing connections, virtual preview tables, Parquet and remote SQL preview adapters, lineage response handling, and improved row-count behavior.",
-        "Pipeline operations and scheduling: Adds pipeline priority, automatic retry settings, retry actions for incomplete block runs and selected integration streams, guarded trigger deletion, clearer runtime variable editing, and Kubernetes execution diagnostics.",
-        "Pipeline authoring and graph experience: Improves graph layout, graph workspace controls, relationship labels, dynamic child dependency handling, pipeline downloads, notebook sticky headers, file browser shortcuts, and editor polish."
+        "AI Sidekick: Makes Sidekick faster and more capable with continuous Markdown streaming, smoother live answers, voice dictation, file and zipped-folder uploads, removable context chips, docs search, data previews, chart artifacts, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
+        "Analytics Dashboard and visualization: Adds AI-generated visualization dashboard charts, universal chart data views, dashboard chart rendering from full block outputs, dashboard empty-state fixes, and monitoring overview action polish.",
+        "Data exploration: Introduces a Data Explorer entrypoint, exploration UI for existing connections, virtual preview tables, Parquet and remote SQL preview adapters, lineage response handling, and improved row-count behavior.",
+        "Data connection UI: Adds UI for managing io_config profiles, improves first integration config template loading, expands connection testing across IO classes, and adds SQL source stream row counts.",
+        "Alert management UI: Restores alert settings with managed notification schemas, adds managed notification delivery support, clarifies trigger timing and plan language, and keeps alert and trigger controls readable.",
+        "Pipeline operations and scheduling: Adds pipeline priority, automatic retry settings, retry actions for incomplete block runs and selected integration streams, guarded trigger deletion, clearer runtime variable editing, and Kubernetes execution diagnostics."
       ],
       "image_tag": "20260809-2000-py3.12",
       "markdown_path": "releases/20260809-2000.md",
@@ -21,7 +21,7 @@
       "release_id": "20260809-2000",
       "sequence": 202608092000,
       "start_sha": "09e4041de278b2f171399df9da290d2e891d56d8",
-      "summary": "AI Sidekick speed, streaming, and reliability: Makes Sidekick feel more live with continuous Markdown rendering, smoother answer streaming, faster send paths, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
+      "summary": "AI Sidekick: Makes Sidekick faster and more capable with continuous Markdown streaming, smoother live answers, voice dictation, file and zipped-folder uploads, removable context chips, docs search, data previews, chart artifacts, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
       "title": "Mage Pro Release Notes"
     },
     {
