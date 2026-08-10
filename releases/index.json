@@ -3,7 +3,7 @@
   "releases": [
     {
       "generated_by": "manual:codex",
-      "git_sha": "be1be7742c52e7fc0da4ce642c2ffbbc044743e6",
+      "git_sha": "cdd76d09f60e01ce0ddb3720dad63f38d91f5459",
       "highlights": [
         "AI Sidekick: Makes Sidekick faster and more capable with continuous Markdown streaming, smoother live answers, voice dictation, file and zipped-folder uploads, removable context chips, docs search, data previews, chart artifacts, cached transcripts, prewarmed runtimes, and stronger retry and recovery handling.",
         "Analytics Dashboard and visualization: Adds AI-generated visualization dashboard charts, universal chart data views, dashboard chart rendering from full block outputs, dashboard empty-state fixes, and monitoring overview action polish.",
