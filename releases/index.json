@@ -10,7 +10,7 @@
         "Data exploration: Introduces a Data Explorer entrypoint, exploration UI for existing connections, virtual preview tables, Parquet and remote SQL preview adapters, lineage response handling, and improved row-count behavior.",
         "Data connection UI: Adds UI for managing io_config profiles, improves first integration config template loading, expands connection testing across IO classes, and adds SQL source stream row counts.",
         "Alert management UI: Restores alert settings with managed notification schemas, adds managed notification delivery support, clarifies trigger timing and plan language, and keeps alert and trigger controls readable.",
-        "Pipeline operations and scheduling: Adds pipeline priority, automatic retry settings, retry actions for incomplete block runs and selected integration streams, guarded trigger deletion, clearer runtime variable editing, and Kubernetes execution diagnostics."
+        "Template library by industry: Adds a managed pipeline template catalog so teams can browse industry-oriented templates and start new pipelines from curated examples."
       ],
       "image_tag": "20260809-2000-py3.12",
       "markdown_path": "releases/20260809-2000.md",
