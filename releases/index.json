@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-10T04:28:38Z",
+  "generated_at": "2026-09-17T18:01:49Z",
   "releases": [
+    {
+      "generated_by": "manual:codex",
+      "git_sha": "3734a1b61829a500a372db78c1f85777ca9261a3",
+      "highlights": [
+        "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
+        "Data exploration and previews: Expands Explore data across block outputs and sources with multi-run previews, JSON previews, Delta Lake S3, SQL Server, BigQuery, DuckDB, dynamic outputs, and safer preview contracts.",
+        "Dashboards and monitoring: Improves dashboard charts with durable Data Preview datasets, faster chart reloads, better axis readability, chart layout fixes, configurable monitoring timeframes, runtime trend charts, log-source filters, and adjustable log columns.",
+        "Streaming pipeline monitoring: Adds streaming health observability so teams can monitor streaming pipeline health more directly alongside existing logs and runtime diagnostics.",
+        "Pipeline callbacks: Adds pipeline-level callback blocks so teams can attach follow-up actions to pipeline outcomes without modeling that logic as ordinary pipeline work.",
+        "Bulk pipeline and project import: Lets teams upload one ZIP containing a pipeline, multiple pipelines, or a full Mage project with conflict handling, protected-file safeguards, rollback, and per-item status.",
+        "Pipeline authoring and navigation: Adds a real template browser, standardized right-click actions, better pipeline empty states, pipeline files in new tabs, config files in editor modals, stronger tag validation, and clearer run-status actions.",
+        "Integrations: Improves paid media connector fields, TikTok pagination, integration config editing, MSSQL metadata and previews, integration documentation in Sidekick, Data Integration editor Sidekick navigation, source template switching, pending integration action states, and destination table selection.",
+        "Account, settings, and security: Adds password reset, unifies settings navigation and security surfaces, improves profile settings alignment, fixes API token expiry timezone handling, and strengthens tag limits across pipelines and triggers."
+      ],
+      "image_tag": "20260917-1000-py3.12",
+      "markdown_path": "releases/20260917-1000.md",
+      "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260917-1000.md",
+      "metadata_path": "releases/20260917-1000.json",
+      "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20260917-1000.json",
+      "published_at": "2026-09-17T18:01:49Z",
+      "release_id": "20260917-1000",
+      "sequence": 202609171000,
+      "start_sha": "741a84c7a50e39fed555f80799efd6ecb2a0456e",
+      "summary": "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
+      "title": "Mage Pro Release Notes"
+    },
     {
       "generated_by": "manual:codex",
       "git_sha": "741a84c7a50e39fed555f80799efd6ecb2a0456e",
