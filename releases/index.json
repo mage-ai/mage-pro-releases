@@ -5,8 +5,8 @@
       "generated_by": "manual:codex",
       "git_sha": "3734a1b61829a500a372db78c1f85777ca9261a3",
       "highlights": [
-        "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, reusable context tools, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
-        "Data exploration and previews: Expands Explore data across block outputs, sources, and reusable context with multi-run previews, JSON previews, Delta Lake S3, SQL Server, BigQuery, DuckDB, dynamic outputs, reusable-context joins, and safer preview contracts.",
+        "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
+        "Data exploration and previews: Expands Explore data across block outputs and sources with multi-run previews, JSON previews, Delta Lake S3, SQL Server, BigQuery, DuckDB, dynamic outputs, and safer preview contracts.",
         "Dashboards and monitoring: Improves dashboard charts with durable Data Preview datasets, faster chart reloads, better axis readability, chart layout fixes, configurable monitoring timeframes, runtime trend charts, log-source filters, and adjustable log columns.",
         "Streaming pipeline monitoring: Adds streaming health observability so teams can monitor streaming pipeline health more directly alongside existing logs and runtime diagnostics.",
         "Pipeline callbacks: Adds pipeline-level callback blocks so teams can attach follow-up actions to pipeline outcomes without modeling that logic as ordinary pipeline work.",
@@ -24,7 +24,7 @@
       "release_id": "20260917-1000",
       "sequence": 202609171000,
       "start_sha": "741a84c7a50e39fed555f80799efd6ecb2a0456e",
-      "summary": "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, reusable context tools, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
+      "summary": "AI Sidekick: Makes Sidekick more interactive and reliable with pending input flows, richer page context, chart artifacts, saved-agent endpoint streaming, multi-run data previews, clearer tool activity, faster session lists, improved prewarming, and more stable chat restoration.",
       "title": "Mage Pro Release Notes"
     },
     {
