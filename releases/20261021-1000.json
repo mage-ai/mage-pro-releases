@@ -2,6 +2,7 @@
   "generated_by": "manual:codex",
   "git_sha": "5753b0fc3b033907310898166fff36835866f77b",
   "highlights": [
+    "Autopilot self-healing: When enabled for a project, Autopilot investigates failed pipeline runs and attempts autonomous repairs. Run lists show healing and retry progress, and repair details let teams inspect the changes and outcome.",
     "Analytics charts across pipeline outputs: Choose a fixed output partition, the latest completed partition, the latest N partitions, or all completed partitions when refreshing a chart. Existing charts keep their saved source behavior until you change it.",
     "Pipeline run actions: Cancel selected active runs across pipelines. In Standard pipelines, retry a generated dynamic child and the downstream work that depends on it while preserving unaffected siblings.",
     "AI Sidekick: Investigate dependency-related pipeline failures with Fix with AI, review a proposed requirements change before it is applied, and continue chatting while an active turn is running. Chat history, artifacts, and failure messages are easier to use.",
@@ -17,6 +18,6 @@
   "release_id": "20261021-1000",
   "sequence": 202610211000,
   "start_sha": "3734a1b61829a500a372db78c1f85777ca9261a3",
-  "summary": "Analytics charts across pipeline outputs: Choose a fixed output partition, the latest completed partition, the latest N partitions, or all completed partitions when refreshing a chart. Existing charts keep their saved source behavior until you change it.",
+  "summary": "Autopilot self-healing: When enabled for a project, Autopilot investigates failed pipeline runs and attempts autonomous repairs. Run lists show healing and retry progress, and repair details let teams inspect the changes and outcome.",
   "title": "Mage Pro Release Notes"
 }
