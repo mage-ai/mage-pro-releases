@@ -3,7 +3,7 @@
   "releases": [
     {
       "generated_by": "manual:codex",
-      "git_sha": "fc7c9c99b9e0d407ed26b1ced5c4446eaf2d62c8",
+      "git_sha": "4a46fde19a95672cbe1c249d71e55a4d2e58ef6e",
       "highlights": [
         "Autopilot self-healing: When enabled for a project, Autopilot investigates failed pipeline runs and attempts autonomous repairs. Run lists show healing and retry progress, and repair details let teams inspect the changes and outcome.",
         "Mage Agent for Claude Desktop: Install a standalone Claude Desktop extension on macOS or Windows to use Mage Agent tools and skills. It includes the agent executable and browser sign-in, without requiring a separate Python or Claude Code installation.",
