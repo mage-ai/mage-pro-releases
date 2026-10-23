@@ -9,7 +9,7 @@
     "Pipeline run actions: Cancel selected active runs across pipelines. In Standard pipelines, retry a generated dynamic child and the downstream work that depends on it while preserving unaffected siblings.",
     "AI Sidekick: Investigate dependency-related pipeline failures with Fix with AI, review a proposed requirements change before it is applied, and continue chatting while an active turn is running. Chat history, artifacts, and failure messages are easier to use.",
     "Find work faster: Applied filters are visible and removable on pipeline, run, and trigger lists, and persist when you navigate away and return during the same browser session. Custom UTC ranges can be entered directly for run and monitoring views.",
-    "Workspace navigation and appearance: Grouped navigation makes dashboard, monitoring, library, and tool destinations easier to find. A System theme follows your device appearance, alongside refreshed light-mode contrast."
+    "Navigation and appearance: Grouped navigation makes dashboard, monitoring, library, and tool destinations easier to find. A System theme follows your device appearance, alongside refreshed light-mode contrast."
   ],
   "image_tag": "20261023-1000-py3.12",
   "markdown_path": "releases/20261023-1000.md",
