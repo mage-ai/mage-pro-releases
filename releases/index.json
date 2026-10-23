@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-17T18:01:49Z",
+  "generated_at": "2026-10-23T17:30:14Z",
   "releases": [
+    {
+      "generated_by": "manual:codex",
+      "git_sha": "4a46fde19a95672cbe1c249d71e55a4d2e58ef6e",
+      "highlights": [
+        "Autopilot self-healing: When enabled for a project, Autopilot investigates failed pipeline runs and attempts autonomous repairs. Run lists show healing and retry progress, and repair details let teams inspect the changes and outcome.",
+        "Mage Agent for Claude Desktop: Install a standalone Claude Desktop extension on macOS or Windows to use Mage Agent tools and skills. It includes the agent executable and browser sign-in, without requiring a separate Python or Claude Code installation.",
+        "Trigger day calendar: See upcoming starts and execution status for enabled recurring triggers in a day view, with timezone, search, and filtering controls.",
+        "Analytics charts across pipeline outputs: Choose a fixed output partition, the latest completed partition, the latest N partitions, or all completed partitions when refreshing a chart. Existing charts keep their saved source behavior until you change it.",
+        "Pipeline run actions: Cancel selected active runs across pipelines. In Standard pipelines, retry a generated dynamic child and the downstream work that depends on it while preserving unaffected siblings.",
+        "AI Sidekick: Investigate dependency-related pipeline failures with Fix with AI, review a proposed requirements change before it is applied, and continue chatting while an active turn is running. Chat history, artifacts, and failure messages are easier to use.",
+        "Find work faster: Applied filters are visible and removable on pipeline, run, and trigger lists, and persist when you navigate away and return during the same browser session. Custom UTC ranges can be entered directly for run and monitoring views.",
+        "Navigation and appearance: Grouped navigation makes dashboard, monitoring, library, and tool destinations easier to find. A System theme follows your device appearance, alongside refreshed light-mode contrast."
+      ],
+      "image_tag": "20261023-1000-py3.12",
+      "markdown_path": "releases/20261023-1000.md",
+      "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20261023-1000.md",
+      "metadata_path": "releases/20261023-1000.json",
+      "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20261023-1000.json",
+      "published_at": "2026-10-23T17:30:14Z",
+      "release_id": "20261023-1000",
+      "sequence": 202610231000,
+      "start_sha": "3734a1b61829a500a372db78c1f85777ca9261a3",
+      "summary": "Autopilot self-healing: When enabled for a project, Autopilot investigates failed pipeline runs and attempts autonomous repairs. Run lists show healing and retry progress, and repair details let teams inspect the changes and outcome.",
+      "title": "Mage Pro Release Notes"
+    },
     {
       "generated_by": "manual:codex",
       "git_sha": "3734a1b61829a500a372db78c1f85777ca9261a3",
