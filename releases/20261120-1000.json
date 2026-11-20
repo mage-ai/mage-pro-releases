@@ -5,6 +5,7 @@
     "Schedule dashboard snapshots by email: With email delivery configured, send dashboards on a schedule as PDF snapshots, with embedded images when supported. Send a test, review delivery history, and retry eligible failures from the dashboard.",
     "Create notebook work from an outcome: Describe what should happen at the start, end, or a selected point between blocks. Sidekick can answer, ask for clarification, or create multiple blocks; manual block creation remains available, including when AI is disabled.",
     "Work across Sidekick conversations: Pin frequently used chats, search chats and saved agents together, and keep artifacts or chat history open in a resizable side panel. Queued follow-ups and chat history recover more reliably across reloads and tabs.",
+    "Explore prepared Data Contexts: Where Data Context is enabled, follow preparation progress and open a context to inspect source statistics, searchable schema, column profiles, and context-aware Sidekick actions. Failed preparations show their recorded reason and recovery path.",
     "Export Data Explorer results: Download the current query or preview result as CSV, including all returned columns and rows even when table filters hide some of them. Empty successful results retain column headers."
   ],
   "image_tag": "20261120-1000-py3.12",
