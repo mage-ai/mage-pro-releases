@@ -1,0 +1,22 @@
+{
+  "git_sha": "04cec5bc680355462cddb4f59a6544844f9b831c",
+  "highlights": [
+    "Share dashboards and charts securely: Create revocable links to a dashboard or individual chart without requiring recipients to sign in. Choose a frozen Snapshot or a Live view that refreshes its captured scope, and set an expiration and optional access code.",
+    "Schedule dashboard snapshots by email: With email delivery configured, send dashboards on a schedule as PDF snapshots, with embedded images when supported. Send a test, review delivery history, and retry eligible failures from the dashboard.",
+    "Create notebook work from an outcome: Describe what should happen at the start, end, or a selected point between blocks. Sidekick can answer, ask for clarification, or create multiple blocks; manual block creation remains available, including when AI is disabled.",
+    "Work across Sidekick conversations: Pin frequently used chats, search chats and saved agents together, and keep artifacts or chat history open in a resizable side panel. Queued follow-ups and chat history recover more reliably across reloads and tabs.",
+    "Export Data Explorer results: Download the current query or preview result as CSV, including all returned columns and rows even when table filters hide some of them. Empty successful results retain column headers."
+  ],
+  "image_tag": "20261120-1000-py3.12",
+  "published_at": "2026-11-20T18:21:48Z",
+  "release_id": "20261120-1000",
+  "sequence": 202611201000,
+  "start_sha": "4a46fde19a95672cbe1c249d71e55a4d2e58ef6e",
+  "summary": "Share dashboards and charts securely: Create revocable links to a dashboard or individual chart without requiring recipients to sign in. Choose a frozen Snapshot or a Live view that refreshes its captured scope, and set an expiration and optional access code.",
+  "title": "Mage Pro Release Notes",
+  "generated_by": "manual:codex",
+  "markdown_path": "releases/20261120-1000.md",
+  "markdown_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20261120-1000.md",
+  "metadata_path": "releases/20261120-1000.json",
+  "metadata_url": "https://raw.githubusercontent.com/mage-ai/mage-pro-releases/master/releases/20261120-1000.json"
+}
